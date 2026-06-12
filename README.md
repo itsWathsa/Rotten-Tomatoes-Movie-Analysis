@@ -1,6 +1,6 @@
 🎬 Do Movies That Resonate with Audiences Also Earn Stronger Critical Reception?
 ---
-**📌 Project Overview**
+#**📌 Project Overview**
 
 This project investigates whether movies that resonate with general audiences also tend to earn stronger critical reception. Using the Rotten Tomatoes Movies and Critic Reviews Dataset, we apply descriptive, inferential, and predictive analytics to statistically evaluate the relationship between audience ratings and Tomatometer (critic) ratings.
 Research Question:  
